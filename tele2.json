@@ -1,0 +1,65 @@
+{
+    "Codes": {
+	"Roaming poziv": "*133*",
+	"Stanje računa": "*130#",
+	"Minute u paketu": "*150*1#",
+	"Poruke u paketu": "*150*2#",
+	"Podaci u paketu": "*150*3#",
+	"Bonus kune": "*150*5#",
+	"Preostale minute": "*150*6#",
+	"Preostale poruke": "*150*7#",
+	"Preostali podaci": "*150*8#"
+    },
+    "SMS": {
+	"SMS trenutna potrošnja": {
+	    "13880": "TPO"
+	},
+	"Nazovi me": {
+	    "13885": "$contact"
+	},
+	"Opcija 100 poruka": {
+	    "13855": "100poruka",
+	    "Cijena": "5 kn"
+	},
+	"Opcija 500 poruka": {
+	    "13855": "500poruka",
+	    "Cijena": "10 kn"
+	},
+	"Opcija 1000 poruka": {
+	    "13855": "1000poruka",
+	    "Cijena": "15 kn"
+	},
+	"Paket 100MB": {
+	    "13855": "Paket100",
+	    "Cijena": "10 kn"
+	},
+	"Paket 250MB": {
+	    "13855": "Paket250",
+	    "Cijena": "25 kn"
+	},
+	"Paket 500MB": {
+	    "13855": "Paket500",
+	    "Cijena": "35 kn"
+	},
+	"Paket 1GB": {
+	    "13855": "Paket1GB",
+	    "Cijena": "50 kn"
+	},
+	"Paket 3GB": {
+	    "13855": "Paket3GB",
+	    "Cijena": "95 kn"
+	},
+	"Opcija 50 minuta": {
+	    "13855": "50min",
+	    "Cijena": "10 kn"
+	},
+	"Opcija 100 minuta": {
+	    "13855": "100min",
+	    "Cijena": "15 kn"
+	},
+	"Opcija 200 minuta": {
+	    "13855": "200min",
+	    "Cijena": "25 kn"
+	}
+    }
+}
